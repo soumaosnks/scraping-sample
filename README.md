@@ -11,11 +11,11 @@ CSV に保存するサンプルプロジェクトです。
 
 ## 📂 プロジェクト構成
 
-- scraping-sample/
- - scrape_news.py        # スクレイピング本体
- - output.csv            # 実行後に自動生成される出力ファイル
- - requirements.txt      # 必要ライブラリ
- - README.md             # この説明書
+scraping-sample/<br>
+├ scrape_news.py        # スクレイピング本体<br>
+├ output.csv            # 実行後に自動生成される出力ファイル<br>
+├ requirements.txt      # 必要ライブラリ<br>
+└ README.md             # この説明書<br>
 
 ---
 
